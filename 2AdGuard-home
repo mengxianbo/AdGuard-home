@@ -831,8 +831,6 @@
 127.0.0.1 auction-load.unityads.unity3d.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 app-measurement.com
-127.0.0.1 beacons.gcp.gvt2.com
-
 #pkg=googleanalysis.mobi;谷歌广告服务
 127.0.0.1 ads.google.com
 127.0.0.1 www.googleadservices.com
