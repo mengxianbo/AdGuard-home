@@ -1,7 +1,4 @@
-https://raw.githubusercontent.com/mengxianbo/AdGuard-home/main/AdGuard%20Home
+qiufeng:
 
+https://raw.githubusercontent.com/mengxianbo/AdGuard-home/main/qiufeng.txt
 
-https://raw.githubusercontent.com/mengxianbo/AdGuard-home/main/2AdGuard-home
-
-
-https://raw.githubusercontent.com/mengxianbo/AdGuard-home/main/3AdGuard-home
